@@ -12,9 +12,9 @@
 
 # Описание функций
 
-# circle.py
+* circle.py
 
-# area(r)
+* area(r)
 
 # 
 
@@ -26,9 +26,9 @@
 
 # 
 
-# area(5)
+* area(5)
 
-# perimeter(r)
+* perimeter(r)
 
 # 
 
@@ -40,11 +40,11 @@
 
 # 
 
-# perimeter(5)
+* perimeter(5)
 
-# square.py
+* square.py
 
-# area(a)
+* area(a)
 
 # 
 
@@ -56,9 +56,9 @@
 
 # 
 
-# area(5)
+* area(5)
 
-# perimeter(a)
+* perimeter(a)
 
 # 
 
